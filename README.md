@@ -49,3 +49,18 @@ $$h(n) = \sqrt{(x_{\text{goal}} - x_n)^2 + (y_{\text{goal}} - y_n)^2}$$
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Coce1/A-Star-Pathfinding-CPP.git](https://github.com/Coce1/A-Star-Pathfinding-CPP.git)
+
+---
+
+## 📂 Project Structure
+
+```text
+├── .gitignore                                    # Visual Studio and build artifact exclusions
+├── packages.config                               # NuGet dependency definitions (Raylib)
+├── Planification et Asservissement (A + EKF).slnx # Visual Studio Solution configuration
+└── main.cpp                                      # Grid engine, A* algorithm, and Raylib rendering loop
+```
+
+## 📄 License
+
+`This project is licensed under the MIT License - see the LICENSE file for details.` : Le paragraphe descriptif de la licence.
