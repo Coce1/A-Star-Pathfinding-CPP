@@ -63,4 +63,4 @@ $$h(n) = \sqrt{(x_{\text{goal}} - x_n)^2 + (y_{\text{goal}} - y_n)^2}$$
 
 ## 📄 License
 
-`This project is licensed under the MIT License - see the LICENSE file for details.` : Le paragraphe descriptif de la licence.
+This project is licensed under the MIT License - see the LICENSE file for details.
