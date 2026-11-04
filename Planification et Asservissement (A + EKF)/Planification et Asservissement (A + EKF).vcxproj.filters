@@ -22,4 +22,9 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ekf.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
