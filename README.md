@@ -26,7 +26,7 @@ Where:
 - $g(n)$: The exact cost to reach node $n$ from the starting position.
 - $h(n)$: The admissible heuristic estimate of the cost from node $n$ to the goal (Manhattan Distance, suited to a 4-connected grid):
 
-$$h(n) = |x_{\text{goal}} - x_n| + |y_{\text{goal}} - y_n|$$
+$$h(n) = |x_{\text{goal}}-x_n|+|y_{\text{goal}}-y_n|$$
 
 - $f(n)$: The total estimated cost of the cheapest solution path through node $n$.
 
